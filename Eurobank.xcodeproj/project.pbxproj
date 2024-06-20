@@ -18,6 +18,9 @@
 		4127A2BC2C22E56800F0907F /* Animations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4127A2BB2C22E56800F0907F /* Animations.swift */; };
 		4127A2BE2C22EDC800F0907F /* FirstScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4127A2BD2C22EDC800F0907F /* FirstScreen.swift */; };
 		4127A2C02C2304BA00F0907F /* JsonResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4127A2BF2C2304B900F0907F /* JsonResponse.swift */; };
+		4189CA5D2C2479C300C1F102 /* Settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4189CA5C2C2479C300C1F102 /* Settings.swift */; };
+		4189CA5F2C2481B300C1F102 /* NetworkScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4189CA5E2C2481B300C1F102 /* NetworkScreen.swift */; };
+		4189CA612C2481FB00C1F102 /* NetworkClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4189CA602C2481FB00C1F102 /* NetworkClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +36,9 @@
 		4127A2BB2C22E56800F0907F /* Animations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animations.swift; sourceTree = "<group>"; };
 		4127A2BD2C22EDC800F0907F /* FirstScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstScreen.swift; sourceTree = "<group>"; };
 		4127A2BF2C2304B900F0907F /* JsonResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JsonResponse.swift; sourceTree = "<group>"; };
+		4189CA5C2C2479C300C1F102 /* Settings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Settings.swift; sourceTree = "<group>"; };
+		4189CA5E2C2481B300C1F102 /* NetworkScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkScreen.swift; sourceTree = "<group>"; };
+		4189CA602C2481FB00C1F102 /* NetworkClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +82,9 @@
 				4127A2BB2C22E56800F0907F /* Animations.swift */,
 				4127A2BD2C22EDC800F0907F /* FirstScreen.swift */,
 				4127A2BF2C2304B900F0907F /* JsonResponse.swift */,
+				4189CA5C2C2479C300C1F102 /* Settings.swift */,
+				4189CA5E2C2481B300C1F102 /* NetworkScreen.swift */,
+				4189CA602C2481FB00C1F102 /* NetworkClass.swift */,
 			);
 			path = Eurobank;
 			sourceTree = "<group>";
@@ -162,7 +171,10 @@
 				4127A2B82C22D13300F0907F /* RowView.swift in Sources */,
 				4127A2B62C22CA3900F0907F /* CustomBgImageView.swift in Sources */,
 				4127A2C02C2304BA00F0907F /* JsonResponse.swift in Sources */,
+				4189CA5D2C2479C300C1F102 /* Settings.swift in Sources */,
+				4189CA612C2481FB00C1F102 /* NetworkClass.swift in Sources */,
 				4127A2BA2C22D1D000F0907F /* RowStruct.swift in Sources */,
+				4189CA5F2C2481B300C1F102 /* NetworkScreen.swift in Sources */,
 				4127A2BE2C22EDC800F0907F /* FirstScreen.swift in Sources */,
 				4127A2B22C22C3A900F0907F /* CustomImageView.swift in Sources */,
 				4127A2A42C22A46100F0907F /* EurobankApp.swift in Sources */,

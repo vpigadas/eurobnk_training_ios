@@ -8,8 +8,7 @@
 import Foundation
 
 
-struct JsonResponse : Decodable {
+struct JsonResponse : Decodable,Identifiable {
     var id:Int
-    var name:String
     var status:String
 }
