@@ -11,7 +11,7 @@ import SwiftUI
 struct EurobankApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            FirstScreen()
         }
     }
 }
